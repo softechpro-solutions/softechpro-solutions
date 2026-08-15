@@ -21,4 +21,4 @@ DAMOS/ORI database · all updates included.
 
 🌐 **[softechpro-solutions.com](https://softechpro-solutions.com)** — download, supported ECU list, pricing & FAQ.
 
-<!-- coverage auto-refreshed 2026-08-14 -->
+<!-- coverage auto-refreshed 2026-08-15 -->
