@@ -1,0 +1,7 @@
+cff-version: 1.2.0
+title: "Softechpro Solutions ECU Calibration & Checksum Suite"
+version: "2.0.4"
+authors:
+  - name: "Softechpro Engineering Team"
+url: "https://www.softechpro-solutions.com/"
+repository-code: "https://github.com/softechpro-solutions/softechpro-solutions"
