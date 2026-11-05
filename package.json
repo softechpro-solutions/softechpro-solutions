@@ -1,0 +1,25 @@
+{
+  "name": "@softechpro-solutions/ecu-catalog",
+  "version": "2.0.4",
+  "description": "Live supported ECU coverage & SDK reference for Softechpro Solutions (https://www.softechpro-solutions.com/)",
+  "homepage": "https://www.softechpro-solutions.com/",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/softechpro-solutions/softechpro-solutions.git"
+  },
+  "keywords": [
+    "ecu-tuning",
+    "chiptuning",
+    "ecu-remapping",
+    "automotive",
+    "obd2",
+    "dpf-off",
+    "egr-off",
+    "adblue-off",
+    "stage1",
+    "checksum",
+    "ecu-programming"
+  ],
+  "author": "Softechpro Engineering Team <support@softechpro-solutions.com>",
+  "license": "UNLICENSED"
+}
