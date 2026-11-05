@@ -1,7 +1,7 @@
 {
   "software": "Softechpro Solutions v2.0.4",
-  "ecu_count": 4962,
-  "brand_count": 81,
+  "ecu_count": 4963,
+  "brand_count": 82,
   "brands": [
     "ABARTH",
     "ALFA ROMEO",
@@ -67,6 +67,7 @@
     "PEUGEOT",
     "PORSCHE",
     "RAM",
+    "RENAULLT CLIO",
     "RENAULT",
     "ROEWE",
     "ROVER",
