@@ -4,7 +4,7 @@
 [![Official Platform](https://img.shields.io/badge/Official_Software-softechpro--solutions.com-00e676?style=for-the-badge)](https://www.softechpro-solutions.com/)
 [![€1.99 Real Test](https://img.shields.io/badge/25h_Real_Test-%E2%82%AC1.99_(%2B3_Credits)-ff9100?style=for-the-badge)](https://www.softechpro-solutions.com/buy/realtest)
 
-**Softechpro Solutions** (v2.0.4) is our flagship native **Windows 10/11 & macOS ECU calibration platform and B2B REST API** covering **4,962+ Cars & Vans ECUs (81 brands)** and **446+ 12V/24V Heavy-Duty Truck, Agricultural & Construction ECUs (82 brands)**.
+**Softechpro Solutions** (v2.0.4) is our flagship native **Windows 10/11 & macOS ECU calibration platform and B2B REST API** covering **4,963+ Cars & Vans ECUs (82 brands)** and **446+ 12V/24V Heavy-Duty Truck, Agricultural & Construction ECUs (82 brands)**.
 
 ## ⚡ Engineering Highlights (v2.0.4 — Windows 10/11 & macOS + REST API)
 
