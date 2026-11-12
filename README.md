@@ -5,13 +5,13 @@
 [![Open Engineering Hub](https://img.shields.io/badge/Engineering_Docs-966%2B_Guides-6366f1?style=for-the-badge)](https://softechpro-solutions.github.io/)
 [![Suite Version](https://img.shields.io/badge/Release-v2.0.7_Win_%26_macOS-ffb300?style=for-the-badge)](https://www.softechpro-solutions.com/buy/realtest)
 
-**Softechpro Solutions (v2.0.7)** delivers cloud-assisted binary ECU calibration and automatic checksum recalculation natively on **Windows 10/11**, **macOS**, and via **B2B HTTPS REST API** across **5,142+ supported controllers**.
+**Softechpro Solutions (v2.0.7)** delivers cloud-assisted binary ECU calibration and automatic checksum recalculation natively on **Windows 10/11**, **macOS**, and via **B2B HTTPS REST API** across **5,538+ supported controllers**.
 
 | Suite Engine | Supported ECUs | Brands | Core Calibrations | Entry Access |
 | :--- | :--- | :--- | :--- | :--- |
-| **[12V Cars & Light Vans](https://www.softechpro-solutions.com/)** | **4,743+** | **78** | DPF, EGR, AdBlue/SCR, OPF, DTC Off, Stage 1/1+, Pops & Bangs, E85, A2L | **[€1.99 Real Test (25h + 3 Credits)](https://www.softechpro-solutions.com/buy/realtest)** / €19 24h Pass |
+| **[12V Cars & Light Vans](https://www.softechpro-solutions.com/)** | **5,139+** | **78** | DPF, EGR, AdBlue/SCR, OPF, DTC Off, Stage 1/1+, Pops & Bangs, E85, A2L | **[€1.99 Real Test (25h + 3 Credits)](https://www.softechpro-solutions.com/buy/realtest)** / €19 24h Pass |
 | **[24V Trucks, Buses & Agri](https://www.softechpro-solutions.com/trucks/)** | **399+** | **82** | 24V SCR/AdBlue, DPF, EGR, DTC, PTO Torque (Scania, Volvo, MAN, DAF, Actros, Deere, Fendt) | **€199 24h Pass** / €349+ Monthly |
-| **[B2B Dealer REST API](https://www.softechpro-solutions.com/developers)** | **5,142+** | **164** | Automated multipart `.bin` upload + checksummed binary response (`<3s`) | **From €249/mo** ([OpenAPI 3.1](https://softechpro-solutions.github.io/openapi.json)) |
+| **[B2B Dealer REST API](https://www.softechpro-solutions.com/developers)** | **5,538+** | **164** | Automated multipart `.bin` upload + checksummed binary response (`<3s`) | **From €249/mo** ([OpenAPI 3.1](https://softechpro-solutions.github.io/openapi.json)) |
 
 ### 🧭 Open Technical Directories (966+ Live Pages on GitHub Pages)
 - ⚙️ **[240 Exact Service × ECU Workflows](https://softechpro-solutions.github.io/solutions/)** · 🩺 **[150 OBD-II DTC Fault Code Guides](https://softechpro-solutions.github.io/dtc/)**
